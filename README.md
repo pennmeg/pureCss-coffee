@@ -1,5 +1,8 @@
 # Pure CSS Challenge: Laptop/Desk Flatlay Purple Theme
 
+![Final Version:](pureCss.png)
+
+*Fall 2020* 
 
 ## Other Pure CSS Images
 
